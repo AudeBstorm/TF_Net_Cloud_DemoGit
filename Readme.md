@@ -1,3 +1,5 @@
 Voici mon super projet qu'il est bien
 Todo :
-- [ ] Fichier avec mes infos
+- [x] Fichier avec mes infos
+- [ ] Fichier avec hobbies
+- [ ] Fichier avec animaux de compagnie
